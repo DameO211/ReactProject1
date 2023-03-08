@@ -1,0 +1,17 @@
+.Header{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+.header__left{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
+.header__right{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+}
